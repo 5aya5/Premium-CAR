@@ -1,0 +1,31 @@
+Размеры адаптации:
+
+1. 1300px
+
+2. 1200px
+
+3. 992px
+
+4. 768px
+
+5. 576px
+
+6. 450px
+
+7. +-320px
+
+Ссылки для Figma:
+
+image/header/---.png
+
+image/header/---.cvg
+
+
+image/main/---.png
+
+image/main/---.cvg
+
+
+image/footer/---.png
+
+image/footer/---.cvg
